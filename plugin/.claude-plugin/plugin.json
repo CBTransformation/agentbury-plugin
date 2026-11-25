@@ -1,9 +1,16 @@
 {
   "name": "agentbury",
-  "version": "1.0.0",
-  "description": "Your Claude chats become staff in your Agentbury office. Sends only activity (which kind of tool, when), never prompts, replies, code or file contents.",
-  "author": { "name": "Agentbury" },
+  "version": "1.0.1",
+  "description": "Your Claude chats become staff in your Agentbury office. Sends only chat names and activity (which kind of tool, and when), never prompts, replies, code or files.",
+  "author": {
+    "name": "Agentbury"
+  },
   "homepage": "https://agentbury.com",
   "license": "Proprietary",
-  "keywords": ["agentbury", "office", "game", "activity"]
+  "keywords": [
+    "agentbury",
+    "office",
+    "game",
+    "activity"
+  ]
 }
