@@ -1,0 +1,7 @@
+{
+  "name": "agentbury",
+  "owner": { "name": "Agentbury" },
+  "plugins": [
+    { "name": "agentbury", "source": "./plugin", "description": "Your Claude chats become staff in your Agentbury office." }
+  ]
+}
